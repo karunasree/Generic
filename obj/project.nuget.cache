@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y75J/jHFTgYdCfy2UY2f8xDKgVd6nZCxcBr/lFmTYMPDNKYww9qQiJtFU8+bnvI4AG0rolVsWoDBMzSlSzKA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Karunasree\\Humber\\Net 012C#\\Assignment\\.Net022Exam\\GenericsProgram\\GenericsProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sathi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

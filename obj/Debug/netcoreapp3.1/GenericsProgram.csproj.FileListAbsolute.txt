@@ -1,0 +1,13 @@
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.exe
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.deps.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.runtimeconfig.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.runtimeconfig.dev.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.dll
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\bin\Debug\netcoreapp3.1\GenericsProgram.pdb
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.csprojAssemblyReference.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.AssemblyInfoInputs.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.AssemblyInfo.cs
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.csproj.CoreCompileInputs.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.dll
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.pdb
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\GenericsProgram\obj\Debug\netcoreapp3.1\GenericsProgram.genruntimeconfig.cache
